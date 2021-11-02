@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client({partials: ["MESSAGE", "CHANNEL", "REACTION"]});
 
 const config = {
-    "token": "NzQ4MDk2MTcwNjk3NTU1OTY5.X0Yc2g.ce7L1wHmF8nI_88B2UOf1xpS9r0",
+    "token": "OTA1MjQxNzcwNzQzNDU5OTAx.YYHOGA.J8ansyroSVIR_U7GG0p0xtnGa5c",
     "prefix": "!",
    
    
